@@ -2,17 +2,19 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 PW:
-  name:              Park Wan
-  email:             parkwanshang@gmail.com
+  name:              <Park> <Wan>
+  email:             <parkwanshang@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    다재다능 개발자라는 꿈을 꾸는 학생 박완입니다.
+    블로그에는 여러가지 공부한 내용이 올라갈거에요.
+    봐주셔서 감사합니다😍
+
+    My name is Park Wan, who wants to become a competent developer
+    Various study-contest will be uploaded on this blog.
+    Thanks for visiting😍
 
   # This photo will be used in the about section
   picture:
