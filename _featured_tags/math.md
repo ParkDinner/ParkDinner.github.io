@@ -3,6 +3,8 @@ layout: list
 
 title: Math
 slug: math
+permalink: /math/
+no_groups: true
 
 description: > 
   수학에 대한 여러가지 탐구에 대한 글들,
