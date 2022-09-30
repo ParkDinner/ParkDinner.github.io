@@ -4,7 +4,7 @@ title: Test Content
 description: >
   시험용
 
-categories: [Math]
+categories: [math]
 tags: [LinearAlgebra]
 
 sitemap: false

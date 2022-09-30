@@ -4,7 +4,7 @@ title: Holy Shit
 description: >
   시험용
 
-categories: [Math]
+categories: [math]
 tags: [LinearAlgebra]
 
 sitemap: false
