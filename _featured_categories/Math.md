@@ -2,7 +2,7 @@
 layout: list
 
 title: Math
-slug: Math
+slug: math
 
 description: > 
   수학에 대한 여러가지 탐구에 대한 글들,
