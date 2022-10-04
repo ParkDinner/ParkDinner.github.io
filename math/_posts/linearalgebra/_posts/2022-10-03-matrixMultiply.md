@@ -6,7 +6,7 @@ hide_description: true
 sitemap: false
 # comments: true
 # image: /assets/img/math/linearalgebra_matrixMultiply.png
-categories: [math, linearalgebra]
+categories: [linearalgebra]
 description: >
   행렬 곱에 대해 알아보자
 ---
