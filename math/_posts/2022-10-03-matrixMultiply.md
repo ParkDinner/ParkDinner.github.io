@@ -4,14 +4,13 @@ title: matrixMultiply
 date: 2022-10-03 22:50:00 +0900
 hide_description: true
 sitemap: false
-
-categories: math
-tags: linearAlgebra
-
+comments: true
+# image: /assets/img/math/linearalgebra_matrixMultiply.png
+categories: [math, linearalgebra]
 description: >
   행렬 곱에 대해 알아보자
 ---
-# 행렬 곱
+# [LinearAlgebra] 행렬 곱
 
 
 ## 1. 행렬 곱
