@@ -50,19 +50,20 @@ author:
 # Add links to the sidebar.
 menu:
   
-  - title:             🥔Programming🥔 -> 공사중
-  #  url:               /programming/
+  - title:             🥔Programming🥔
+    url:               /programming/
 
   - title:             ☠Math☠
     url:               /math/
 
-  - title:             🎶Playlist🎶 -> 공사중
-  #  url:               /playlist/
+  - title:             🎶Playlist🎶
+    url:               /playlist/
 
-  - title:             Useless -> 공사중
-  #  url:               /useless/
+  - title:             Useless
+    url:               /useless/
 
-  - title:             -언젠가 하게될 게임 포스팅..?-
+  - title:             Game
+    url:               /games/
 
   - title:             Who is Me?
     url:               /about/

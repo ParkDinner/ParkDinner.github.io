@@ -12,3 +12,14 @@ description: >
 
 sitemap : false
 ---
+
+[LinearAlgebra]{:.heading.flip-title} 환장할 행렬 대잔치에 취해보자 
+
+
+[DiscreteMath] 컴퓨팅적사고라고 이름을 바꿔도 어색함 없음이라
+
+
+
+[LinearAlgebra]: linearalgebra.md
+[DiscreteMath]: discretemath.md
+
