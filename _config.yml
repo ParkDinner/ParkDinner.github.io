@@ -49,16 +49,26 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             My Velog
-    url:               https://velog.io/@wan_tudy
-  - title:             Math
+  
+  - title:             🥔Programming🥔 -> 공사중
+  #  url:               /programming/
+
+  - title:             ☠Math☠
     url:               /math/
-  - title:             예시
-    url:               /example/
-  - title:             문서
-    url:               /docs/
-  - title:             상세내용
+
+  - title:             🎶Playlist🎶 -> 공사중
+  #  url:               /playlist/
+
+  - title:             Useless -> 공사중
+  #  url:               /useless/
+
+  - title:             -언젠가 하게될 게임 포스팅..?-
+
+  - title:             Who is Me?
     url:               /about/
+
+  - title:             자취방1호
+    url:               https://velog.io/@wan_tudy
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

@@ -4,7 +4,7 @@ title: matrixMultiply
 date: 2022-10-03 22:50:00 +0900
 hide_description: true
 sitemap: false
-comments: true
+# comments: true
 # image: /assets/img/math/linearalgebra_matrixMultiply.png
 categories: [math, linearalgebra]
 description: >
